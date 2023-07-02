@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pid_controller/static/css/main.cb897f09.css",
-    "main.js": "/pid_controller/static/js/main.f7887ac9.js",
+    "main.js": "/pid_controller/static/js/main.92782e4a.js",
     "static/js/787.c9f011bb.chunk.js": "/pid_controller/static/js/787.c9f011bb.chunk.js",
     "static/media/FunctionGenerator.pdf": "/pid_controller/static/media/FunctionGenerator.ec3c5bea510a5ce532a4.pdf",
     "static/media/PID Controller.pdf": "/pid_controller/static/media/PID Controller.b028d3908a477d84c3a3.pdf",
@@ -9,11 +9,11 @@
     "static/media/logo.svg": "/pid_controller/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/pid_controller/index.html",
     "main.cb897f09.css.map": "/pid_controller/static/css/main.cb897f09.css.map",
-    "main.f7887ac9.js.map": "/pid_controller/static/js/main.f7887ac9.js.map",
+    "main.92782e4a.js.map": "/pid_controller/static/js/main.92782e4a.js.map",
     "787.c9f011bb.chunk.js.map": "/pid_controller/static/js/787.c9f011bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb897f09.css",
-    "static/js/main.f7887ac9.js"
+    "static/js/main.92782e4a.js"
   ]
 }
